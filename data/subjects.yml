@@ -1,0 +1,5 @@
+---
+example-type:
+  subject: "{capital} is the capital of {country}"
+  sections:
+    - example-body
